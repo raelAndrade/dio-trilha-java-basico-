@@ -20,3 +20,8 @@ Simulador de Conta Bancária através do Terminal/Console
     ```
     git pull origin main
     ```
+
+- Executa o comando a seguir
+    ```
+    java ContaTerminal
+    ```
