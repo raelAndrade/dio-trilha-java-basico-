@@ -21,7 +21,7 @@ Simulador de Conta Bancária através do Terminal/Console
     git pull origin main
     ```
 
-- Executa o comando a seguir
+- Executa o comando a seguir dentro da pasta bin no projeto sem a extensão .class
     ```
     java ContaTerminal
     ```
